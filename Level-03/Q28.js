@@ -1,6 +1,6 @@
 // 2. **Print Butterfly Pattern**
 
-//    - Input: `Rows = 5`
+//    - Input: `Rows = 5` only odd
 //    - Output:
 
 //      ```
@@ -13,40 +13,21 @@
 
 //    - ✨ _Combines multiple sections with symmetry logic._
 
-const n = 4;
-
-let line = '';
-
-// upper part
-for (let i = 0; i <= n/2; i++) {
-    // starting star
-    line+='*'.repeat(i+1);
-
-    // space
-    line+=' '.repeat((n - i) * 2 - 3);
-
-    // ending start
-    line+='*'.repeat(i+1);
-
-    line+='\n';
+const n = 9;
+let line = "";
+for (let i = 1; i < n / 2; i++) {
+  line += "*".repeat(i);
+  line += " ".repeat(n - i * 2);
+  line += "*".repeat(i);
+  line += "\n";
 }
-
-//middle line
-line+='*'.repeat((n*2)-1);
-line+='\n';
-
-// lower part
-for (let i = 0; i < n-1; i++) {
-    // starting star
-    line+='*'.repeat((n-i)-1);
-
-    // space
-    line+=' '.repeat((2*i) + 1);
-
-    // ending start
-    line+='*'.repeat((n-i)-1);
-
-    line+='\n';
+line += "*".repeat(n);
+line += "\n";
+for (let i = 0; i < (n + 1) / 2; i++) {
+  let middleLine = (n + 1) / 2;
+  line += "*".repeat(middleLine - 1 - i);
+  line += " ".repeat(2 * i + 1);
+  line += "*".repeat(middleLine - 1 - i);
+  line += "\n";
 }
-
 console.log(line);
