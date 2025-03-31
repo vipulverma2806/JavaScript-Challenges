@@ -1,4 +1,4 @@
-// 6. **Print Hollow Pyramid Pattern**
+// 25. **Print Hollow Pyramid Pattern**
 
 //    - Input: `Rows = 5`
 //    - Output:

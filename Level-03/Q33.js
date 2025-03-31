@@ -1,4 +1,4 @@
-// 7. **Print Multiplication Table (Single and Upto N)**
+//33. **Print Multiplication Table (Single and Upto N)**
 
 //    - Input 1: `Number = 5`
 //    - Output:
@@ -22,3 +22,16 @@
 //      ```
 
 //    - ✨ _Practices simple and nested loops for repetitive operations._
+
+let n = 5;
+
+for (i = 1; i <= 10; i++) {
+  //   console.log(`${n} X ${i} = ${n * i}`);
+}
+let upto = 100;
+for (i = 1; i <= upto; i++) {
+  console.log(`\ntable of ${i} `);
+  for (j = 1; j <= 10; j++) {
+    console.log(`${i} X ${j} = ${i * j}`);
+  }
+}

@@ -1,4 +1,4 @@
-// 2. **Print Butterfly Pattern**
+// 28. **Print Butterfly Pattern**
 
 //    - Input: `Rows = 5` only odd
 //    - Output:
@@ -13,7 +13,7 @@
 
 //    - ✨ _Combines multiple sections with symmetry logic._
 
-const n = 9;
+const n = 5;
 let line = "";
 for (let i = 1; i < n / 2; i++) {
   line += "*".repeat(i);

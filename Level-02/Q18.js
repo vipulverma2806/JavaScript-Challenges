@@ -1,4 +1,4 @@
-//  **Check Triangle Type Using Sides and Angles**
+// 18. **Check Triangle Type Using Sides and Angles**
 
 // * **Input:** `Sides = 3, 4, 5`
 // * **Output:** `Right-Angled Triangle`

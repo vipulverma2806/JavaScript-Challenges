@@ -1,4 +1,4 @@
-// 1. **Find the Maximum of Three Numbers**
+// 12. **Find the Maximum of Three Numbers**
 
 //    * Input: `10 20 5`
 //    * Output: `20`

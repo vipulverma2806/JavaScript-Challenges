@@ -1,4 +1,4 @@
-// 7. **Print Alternating Binary Triangle**
+// 26. **Print Alternating Binary Triangle**
 
 //    - Input: `Rows = 5`
 //    - Output:

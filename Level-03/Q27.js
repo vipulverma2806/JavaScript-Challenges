@@ -1,4 +1,4 @@
-// 1. **Print Hollow Inverted Pyramid**
+// 27. **Print Hollow Inverted Pyramid**
 
 //    - Input: `Rows = 5`
 //    - Output:

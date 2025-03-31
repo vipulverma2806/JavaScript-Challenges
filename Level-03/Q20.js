@@ -1,4 +1,4 @@
-// 1. **Print Right-Angled Star Triangle**
+// 20. **Print Right-Angled Star Triangle**
 
 //    - Input: `Rows = 5`
 //    - Output:

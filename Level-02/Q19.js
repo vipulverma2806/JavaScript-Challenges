@@ -1,4 +1,4 @@
-//  **Calculate Income Tax Based on Slabs**
+// 19. **Calculate Income Tax Based on Slabs**
 
 // * **Input:** `Income = ₹7,50,000`
 // * **Output:** `Tax = ₹62,500`

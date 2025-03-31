@@ -1,4 +1,4 @@
-// 5. **Print Hollow Square Pattern**
+// 24. **Print Hollow Square Pattern**
 
 //    - Input: `Rows = 5`
 //    - Output:

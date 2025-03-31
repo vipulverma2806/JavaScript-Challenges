@@ -1,4 +1,4 @@
-// 3. **Calculate Electricity Bill**
+// 14. **Calculate Electricity Bill**
 
 // * Input: `Units = 230`
 // * Output: `Total Bill = ₹1500`

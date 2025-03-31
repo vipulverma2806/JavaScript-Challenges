@@ -1,4 +1,4 @@
-// 2. **Print Inverted Right-Angled Triangle**
+// 21. **Print Inverted Right-Angled Triangle**
 
 //    - Input: `Rows = 5`
 //    - Output:

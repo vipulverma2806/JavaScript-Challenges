@@ -1,4 +1,4 @@
-// 3. **Print Pyramid Pattern**
+// 22. **Print Pyramid Pattern**
 
 //    - Input: `Rows = 5`
 //    - Output:
