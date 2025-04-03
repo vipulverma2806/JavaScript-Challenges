@@ -1,4 +1,18 @@
 # Javascript challenges
+
+
+---
+## Level-05
+* Q 49. Print All Factors of a Number.
+* Q 50. Print All Multiples of a Number up to N.
+* Q 51. Find the HCF (Highest Common Factor) or GCD of Two Numbers.
+* Q 52. Find the LCM (Least Common Multiple) of Two Numbers.
+* Q 53. Count the Total Number of Factors of a Number.
+* Q 54. Sum of All Factors of a Number.
+* Q 55. Find the Greatest Factor of a Number (Other Than Itself).
+* Q 56. Check if a Number is a Perfect Number.
+* Q 57. Find the HCF and LCM of Three Numbers.
+
 ---
 ## Level-04
 * Q 34. Split Number into Digits.
