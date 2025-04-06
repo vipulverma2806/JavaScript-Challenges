@@ -3,7 +3,7 @@
 //    * **Input:** `8, 12, 16`
 //    * **Output:** `HCF = 4, LCM = 48`
 
-function getLCM(num1, num2, num3) {
+function getLCMandHCF(num1, num2, num3) {
   let sorted = [num1, num2, num3].sort((a, b) => a - b);
   let biggestNo = sorted[2];
   let middleNo = sorted[1];
@@ -24,13 +24,28 @@ function getLCM(num1, num2, num3) {
     continue;
   }
 
-  let A = LCM;
-  while (A % smallestNo != 0) {
-    A += LCM;
+  let finalLCM = LCM;
+  while (finalLCM % smallestNo != 0) {
+    finalLCM += LCM;
     
   }
 
-  return A;
+  let divisor = num1 > num2 ? num2 : num1;
+  let dividend = num1 < num2 ? num2 : num1;
+  let remainder;
+  while(dividend % divisor !== 0){
+    remainder = dividend % divisor
+    dividend = divisor;
+    divisor = remainder;
+  }
+
+while(num3 % divisor  !== 0)
+{
+  remainder = num3 % divisor
+  num3 = divisor;
+  divisor = remainder;
+}
+  return `LCM is ${finalLCM}, HCF is ${divisor}`;
 }
 
-console.log(getLCM(11, 15, 16));
+console.log(getLCMandHCF(120,15,18));
