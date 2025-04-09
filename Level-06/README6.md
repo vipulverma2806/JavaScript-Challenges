@@ -87,14 +87,7 @@
 
 ---
 
-69. **Check if the Sum of Two Consecutive Fibonacci Numbers is Prime**
-
-   - **Input:** `(5 + 8)`
-   - **Output:** `13 is Prime`
-
----
-
-70. **Print First N Prime Fibonacci Numbers**
+69. **Print First N Prime Fibonacci Numbers**
 
    - **Input:** `N = 5`
    - **Output:** `2, 3, 5, 13, 89`

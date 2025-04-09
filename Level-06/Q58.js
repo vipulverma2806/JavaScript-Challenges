@@ -3,21 +3,17 @@
 //    - **Input:** `7`
 //    - **Output:** `Prime Number`
 
-function isPrime(n) {
-  if (n <= 3 ) {
-    return "Prime";
-  } else {
-    let result = "";
-    for (i = 2; i <= Math.sqrt(n); i++) {
-      if (n % i == 0) {
-        result = "not prime";
-        return result;
-        
-      }
-      result = "prime";
-      return result;
+let num = 5
+
+if(num <= 1){
+  return console.log("Not Prime");
+}else{
+  for(let i=2 ; i <= Math.sqrt(num); i++){
+    if(num % i == 0){
+      return console.log("Not Prime");
     }
   }
+  return console.log("Prime");
 }
 
-console.log(isPrime(24));
+

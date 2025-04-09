@@ -1,5 +1,19 @@
 # Javascript challenges
 
+---
+## Level-06
+* Q 58. Check if a Number is Prime
+* Q 59. Check if two Numbers are Co-Prime
+* Q 60. Print Fibonacci Series up to N Terms
+* Q 61. Find the Nth Fibonacci Number
+* Q 62. Check if a Number Belongs to the Fibonacci Series
+* Q 63. Print All Prime Numbers up to N
+* Q 64. Sum of All Prime Numbers till N
+* Q 65. Check if Two Numbers are Twin Primes
+* Q 66. Print All Fibonacci Numbers up to a Given Limit
+* Q 67. Generate Fibonacci Numbers Within a Range
+* Q 68. Find the Sum of Even Fibonacci Numbers up to N Terms
+* Q 69. Print First N Prime Fibonacci Numbers
 
 ---
 ## Level-05
