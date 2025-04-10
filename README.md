@@ -1,5 +1,18 @@
 # Javascript challenges
 
+## Level-07
+* Q 70. Find the Prime Factorization (Return as an Array).
+* Q 71. Factorization in Exponent Form.
+* Q 72. Distinct Prime Factor Count.
+* Q 73. Check if a Number Is a Powerful Number.
+* Q 74. Find the Product of All Distinct Prime Factors.
+* Q 75. Check if a Number Is a Square-Free Number.
+* Q 76. Check if a Number Is a Smith Number.
+* Q 77. Check if a Number Is an Ugly Number.
+* Q 78. Check if a Number Is a Kaprekar Number.
+* Q 79. Check if a Number Is a Happy Number.
+* Q 80. Number Base Conversion (Any Base to Any Base).
+* Q 81. Swap Variable without using third variable.
 ---
 ## Level-06
 * Q 58. Check if a Number is Prime
