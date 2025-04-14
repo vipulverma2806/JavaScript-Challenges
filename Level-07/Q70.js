@@ -20,5 +20,5 @@ function getFactors(num) {
   }
 }
 
-console.log(getFactors(10001));
+console.log(getFactors(59));
 

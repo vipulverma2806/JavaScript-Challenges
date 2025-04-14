@@ -34,10 +34,10 @@ function factorsExponent(num) {
   // let final = exArr.join(" x ")
   for (const key in exObj) {
     if (exObj[key] < 2) {
-        return "Not a Powerfull No."
+      return "Not a Powerfull No.";
     }
   }
-  return "A Powerful Number"
+  return "A Powerful Number";
 }
 
 console.log(factorsExponent(100));
