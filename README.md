@@ -1,5 +1,20 @@
-# Javascript challenges
+# 💻 **Javascript challenges**
+## Level-08
+* Q 82. Reverse a String (Manual Method Only).
+* Q 83. Check if a String is a Palindrome.
+* Q 84. Count Frequency of Each Character.
+* Q 85. Find the Most Frequent Character in a String.
+* Q 86. Check if Two Strings Are Anagrams (Without Sorting).
+* Q 87. Find the First Non-Repeating Character.
+* Q 88. Remove All Duplicate Characters (Keep First Occurrence).
+* Q 89. Check if a String Contains Only Alphabets (No Regex).
+* Q 90. Reverse Only the Words in a Sentence.
+* Q 91. Find the Longest Word in a Sentence.
+* Q 92. Count the Number of Words (Manually Without split).
+* Q 93. Find All Substrings of a String (No Built-ins).
+* Q 94. Compress a String (Basic Run-Length Encoding).
 
+---
 ## Level-07
 * Q 70. Find the Prime Factorization (Return as an Array).
 * Q 71. Factorization in Exponent Form.
@@ -13,6 +28,7 @@
 * Q 79. Check if a Number Is a Happy Number.
 * Q 80. Number Base Conversion (Any Base to Any Base).
 * Q 81. Swap Variable without using third variable.
+
 ---
 ## Level-06
 * Q 58. Check if a Number is Prime
