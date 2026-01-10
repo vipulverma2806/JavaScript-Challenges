@@ -1,6 +1,6 @@
-#Javascript challenges
+# Javascript challenges
 --
-##Level-01
+## Level-01
 *Q 1. Print Numbers from 1 to N
 *Q 2. Print Numbers from N to 1 without changing the loop condition of above question
 *Q 3. Print All Even Numbers from 1 to N
