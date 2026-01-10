@@ -1,4 +1,16 @@
 # Javascript challenges
+
+---
+## Level-02
+* Q 12. Find the Maximum of Three Numbers
+* Q 13. Check if a Number is Positive, Negative, or Zero
+* Q 14. Calculate Electricity Bill
+* Q 15. Check if a Character is a Vowel or Consonant
+* Q 16. Check if a Year is a Leap Year
+* Q 17. Check if a Character is Uppercase, Lowercase, Digit, or Special Character
+* Q 18. Check Triangle Type Using Sides and Angles
+* Q 19. Calculate Income Tax Based on Slabs
+
 ---
 ## Level-01
 * Q 1. Print Numbers from 1 to N
