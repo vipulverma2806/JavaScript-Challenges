@@ -71,7 +71,7 @@
         * *
          *
      ```
-* Q 27. Print Butterfly Pattern
+* Q 28. Print Butterfly Pattern
      ```
      *       *
      **     **
@@ -84,7 +84,7 @@
      *       *
      ```
 
-* Q 27. Print Diamond Pattern
+* Q 29. Print Diamond Pattern
      ```
          *
         ***
@@ -93,7 +93,7 @@
          *
      ```
 
-* Q 27. Print Hourglass Pattern
+* Q 30. Print Hourglass Pattern
      ```
      *********
       *******
@@ -107,7 +107,7 @@
      ```
 
 
-* Q 27. Print Hollow Diamond Pattern
+* Q 31. Print Hollow Diamond Pattern
     ```
          *
         * *
@@ -117,7 +117,7 @@
      ```
 
 
-* Q 27. Print Rhombus Pattern
+* Q 32. Print Rhombus Pattern
 
     ```
          *****
@@ -128,7 +128,7 @@
      ```
 
 
-* Q 27. Print Multiplication Table (Single and Upto N)
+* Q 33. Print Multiplication Table (Single and Upto N)
    * Input 1: `Number = 5`
    * Output:
 
