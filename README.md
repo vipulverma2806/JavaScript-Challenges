@@ -11,4 +11,4 @@
 * Q 8. Print all numbers divisible by 3 and 5 up to N
 * Q 9. Find the sum of all odd numbers up to N
 * Q 10. Print the cubes of numbers from 1 to N
-** Q 11. Print only the numbers that are both even and perfect squares
+* Q 11. Print only the numbers that are both even and perfect squares
