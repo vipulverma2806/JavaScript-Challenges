@@ -1,6 +1,161 @@
 # Javascript challenges
 
 ---
+## Level-03
+* Q 20. Print Right-Angled Star Triangle
+     ```
+     *
+     **
+     ***
+     ****
+     *****
+     ```
+
+* Q 21. Print Inverted Right-Angled Triangle
+     ```
+     *****
+     ****
+     ***
+     **
+     *
+     ```
+
+* Q 22. Print Pyramid Pattern
+     ```
+         *
+        ***
+       *****
+      *******
+     *********
+     ```
+* Q 23. Print Inverted Pyramid Pattern
+   ```
+     *********
+      *******
+       *****
+        ***
+         *
+     ```
+* Q 24. Print Hollow Square Pattern given rows.
+
+   ```
+     *****
+     *   *
+     *   *
+     *   *
+     *****
+     ```
+* Q 25. Print Hollow Pyramid Pattern given rows
+    ```
+         *
+        * *
+       *   *
+      *     *
+     *********
+     ```
+* Q 26. Print Alternating Binary Triangle given rows
+
+     ```
+     1
+     0 1
+     1 0 1
+     0 1 0 1
+     1 0 1 0 1
+     ```
+* Q 27. Print Hollow Inverted Pyramid
+
+     ```
+     *********
+      *     *
+       *   *
+        * *
+         *
+     ```
+* Q 27. Print Butterfly Pattern
+     ```
+     *       *
+     **     **
+     ***   ***
+     **** ****
+     *********
+     **** ****
+     ***   ***
+     **     **
+     *       *
+     ```
+
+* Q 27. Print Diamond Pattern
+     ```
+         *
+        ***
+       *****
+        ***
+         *
+     ```
+
+* Q 27. Print Hourglass Pattern
+     ```
+     *********
+      *******
+       *****
+        ***
+         *
+        ***
+       *****
+      *******
+     *********
+     ```
+
+
+* Q 27. Print Hollow Diamond Pattern
+    ```
+         *
+        * *
+       *   *
+        * *
+         *
+     ```
+
+
+* Q 27. Print Rhombus Pattern
+
+    ```
+         *****
+        *****
+       *****
+      *****
+     *****
+     ```
+
+
+* Q 27. Print Multiplication Table (Single and Upto N)
+   * Input 1: `Number = 5`
+   * Output:
+
+     ```
+     5 x 1 = 5
+     5 x 2 = 10
+     ...
+     5 x 10 = 50
+     ```
+   * Input 2: `Upto = 3`
+   * Output:
+
+     ```
+     Table of 1
+     1 x 1 = 1
+     ...
+     Table of 3
+     3 x 10 = 30
+     ```
+
+
+
+
+
+
+
+---
 ## Level-02
 * Q 12. Find the Maximum of Three Numbers
 * Q 13. Check if a Number is Positive, Negative, or Zero
