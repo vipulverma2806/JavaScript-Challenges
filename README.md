@@ -5,16 +5,16 @@
 * Q 35. Remove the Decimal Point Mathematically.
 * Q 36. Separate Whole and Fractional Parts of a Number.
 * Q 37. Count Whole and Fractional Digits Separately.
-* Q 39. Generate a Decimal Number from Whole and Fractional Digits.
-* Q 40. Check if a Number is a Palindrome.
-* Q 41. Check if a Number is an Armstrong Number (also called a Narcissistic Number)**
-* Q 42. Find the Sum of Digits.
-* Q 43. Find the Average of Digits.
-* Q 44. Find the Largest and Smallest Digit in a Number.
-* Q 45. Check if a Number is a Strong Number.
-* Q 46. Check if a Number is an Automorphic Number.
-* Q 47. Find the Frequency of Each Digit.
-* Q 48. Check if a Number is a Harshad Number.
+* Q 38. Generate a Decimal Number from Whole and Fractional Digits.
+* Q 39. Check if a Number is a Palindrome.
+* Q 40. Check if a Number is an Armstrong Number (also called a Narcissistic Number)**
+* Q 41. Find the Sum of Digits.
+* Q 42. Find the Average of Digits.
+* Q 43. Find the Largest and Smallest Digit in a Number.
+* Q 44. Check if a Number is a Strong Number.
+* Q 45. Check if a Number is an Automorphic Number.
+* Q 46. Find the Frequency of Each Digit.
+* Q 47. Check if a Number is a Harshad Number.
 
 ---
 ## Level-03
